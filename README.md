@@ -1,6 +1,6 @@
 # Guess the number game
 
-<p align="center"><img src="https://i.pinimg.com/originals/ab/4a/b1/ab4ab1c9919b50c240900fe1b2158193.gif" width="1000" height="500" style="object-fit: cover;width: 500px;height: 200px;"></p>
+<p align="center"><img src="https://i.pinimg.com/originals/ab/4a/b1/ab4ab1c9919b50c240900fe1b2158193.gif" width="500" height="500"></p>
 
 ## The skills presented in this project:
 
